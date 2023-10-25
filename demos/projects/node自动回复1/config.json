@@ -1,0 +1,87 @@
+{
+  "ext_url": "http://127.0.0.1:8203/api?json&key=657984AB41D10085FC38AEC29B9E0BF7CE9C5017",
+  "chatroom_ids": [
+    "47902160550@chatroom"
+  ],
+  "member_ids": [
+    "wxid_2tkz5thiamwi22",
+    "wxid_oy0q74nu5ds122",
+    "wxid_o9268g9rjywo22"
+  ],
+  "admin_id": "wxid_h6o966ul6l1j22",
+  "reply_setting": [
+    {
+      "keywords": [
+        "合肥",
+        "巢湖",
+        "庐江"
+      ],
+      "reply_content": "豫NR8978\n豫NP6929\n豫NJ7555\n豫N07A3S\n豫NR4493\n皖SC9447\n皖SD5672\n豫N97A0B\n皖F50319\n皖F50758\n皖F53670\n皖F31116\n皖F20598\n皖F53509\n皖F52957合肥地区"
+    },
+    {
+      "keywords": [
+        "滁州",
+        "定远",
+        "全椒",
+        "明光",
+        "天长",
+        "来安"
+      ],
+      "reply_content": "皖SA8448\n皖SE5696\n皖SB7429\n皖SE3931\n皖SD3530\n豫NR8978\n豫NP6929\n豫NJ7555\n豫N07A3S\n豫NR4493\n皖F85795\n豫NZ8873\n豫NJ7327\n皖SC7190滁州地区"
+    },
+    {
+      "keywords": [
+        "菏泽",
+        "鄄城",
+        "东明",
+        "曹县",
+        "巨野",
+        "郓城",
+        "成武",
+        "单县"
+      ],
+      "reply_content": "鲁RQ2180\n鲁PU3031\n鲁PP3069\n鲁PR7260\n豫NT7520\n鲁H525R7\n豫EB1261\n豫EA1503\n豫NP6385\n豫NR6977\n豫NM0363菏泽地区"
+    },
+    {
+      "keywords": [
+        "沈丘",
+        "项城",
+        "郸城",
+        "西华",
+        "太康",
+        "扶沟",
+        "鹿邑",
+        "商水",
+        "周口",
+        "淮阳"
+      ],
+      "reply_content": "豫PV8278\n豫NW8031\n皖SA8265\n皖SD9313\n豫N66B9F\n皖SF2367\n皖SF7836\n皖SG8199\n豫NP6385\n豫NR6977\n豫NM0363周口地区"
+    },
+    {
+      "keywords": [
+        "聊城",
+        "阳谷",
+        "莘县",
+        "临清",
+        "高唐",
+        "东昌府"
+      ],
+      "reply_content": "鲁PU3031\n鲁PQ2920\n鲁PP2796\n鲁PQ0685\n鲁H15E82\n鲁AV7329\n鲁PL5878\n鲁PU8863\n鲁PW8789\n鲁PR8922\n鲁PP3069\n鲁PR7260\n冀D9L832\n冀DJ9537聊城地区"
+    },
+    {
+      "keywords": [
+        "五河",
+        "蚌埠",
+        "固镇"
+      ],
+      "reply_content": "皖SA8448\n豫NW2500\n豫NT7520\n豫NL7531蚌埠地区"
+    },
+    {
+      "keywords": [
+        "淮南",
+        "寿县"
+      ],
+      "reply_content": "豫NT7520\n豫NQ5679\n豫NN5451\n豫N93B5C\n豫ND7637\n豫NL7531淮南地区"
+    }
+  ]
+}
